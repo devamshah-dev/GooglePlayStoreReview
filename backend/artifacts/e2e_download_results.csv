@@ -1,0 +1,111 @@
+review,rating,predicted_sentiment,predicted_theme
+The app crashes every time I open it after the latest update.,1,Negative,Crash
+Constant crashing on startup. Force close again and again.,1,Negative,Crash
+App keeps crashing when I try to open messages.,2,Negative,Crash
+It crashed three times today. Unusable.,1,Negative,Crash
+Force close happens whenever I upload a photo.,2,Negative,Crash
+Crashes randomly during checkout. Please fix.,1,Negative,Crash
+After update the app is crashing nonstop.,2,Negative,Crash
+My phone says app stopped working. Crashes immediately.,1,Negative,Crash
+Keeps closing when I switch tabs. Crash issue.,2,Negative,Crash
+Worst update ever. Crashes on launch every single time.,1,Negative,Crash
+I cannot login to my account.,1,Negative,Login Problem
+Can't sign in even with correct password.,2,Negative,Login Problem
+Login fails every time. Authentication error.,1,Negative,Login Problem
+Unable to log in after changing my password.,2,Negative,Login Problem
+Sign in page is broken. OTP never arrives.,1,Negative,Login Problem
+Can't log in on my new phone.,2,Negative,Login Problem
+"Login sometimes works, sometimes not.",3,Negative,Login Problem
+Cannot sign in to my account since yesterday.,1,Negative,Login Problem
+Password reset works but then login fails.,2,Negative,Login Problem
+Unable to login. Keeps saying invalid credentials.,1,Negative,Login Problem
+The app is so slow and laggy it freezes constantly.,2,Negative,Performance Issue
+Freezing every few minutes. Terrible performance.,1,Negative,Performance Issue
+Very slow loading. Takes forever to open.,2,Negative,Performance Issue
+A bit laggy when scrolling through the feed.,3,Neutral,Performance Issue
+Not responding half the time. Hang issues.,1,Negative,Performance Issue
+Battery drain and lag after the last update.,2,Negative,Crash
+Stuttering and freeze when opening camera.,2,Negative,Performance Issue
+App hangs on splash screen forever.,1,Negative,Other
+Sometimes slow but acceptable.,3,Negative,Performance Issue
+Laggy interface and freezing videos.,2,Negative,Performance Issue
+The interface is confusing and the layout is messy.,2,Negative,UI Problem
+Buttons are too small and hard to tap.,3,Neutral,Other
+Ugly design. The UI looks outdated.,2,Negative,UI Problem
+Dark mode broken and font size is unreadable.,3,Neutral,UI Problem
+Hard to navigate. Cluttered screen layout.,2,Negative,UI Problem
+Nice features but the button placement is awkward.,4,Positive,UI Problem
+Confusing UI makes simple tasks difficult.,2,Negative,UI Problem
+Interface needs a redesign. Layout overlaps.,3,Neutral,UI Problem
+The design of the home screen is cluttered.,2,Negative,UI Problem
+UI problem with overlapping text on settings.,3,Neutral,UI Problem
+Please add dark mode support. Would like this feature.,4,Positive,Feature Request
+Wish there was an offline mode. Feature request!,5,Positive,Feature Request
+It would be nice if you could add export to PDF.,4,Positive,Feature Request
+Hope you add multi-language support soon.,3,Neutral,Feature Request
+Can you add a widget for the home screen?,4,Positive,Feature Request
+Would like a tablet layout. Please add it.,5,Positive,UI Problem
+Should add fingerprint unlock. Missing feature.,4,Positive,Feature Request
+Wish you had calendar sync.,3,Neutral,Feature Request
+Please add the ability to schedule posts.,4,Positive,Feature Request
+Feature request: night mode and custom themes.,5,Positive,Feature Request
+Too many ads. Advertisement every few seconds.,1,Negative,Ads Complaint
+Full of ads and pop-up ads. Unusable.,2,Negative,Ads Complaint
+Annoying ads everywhere. Forced ads before every action.,1,Negative,Ads Complaint
+Ads are out of control after the update.,2,Negative,Ads Complaint
+Too many advertisements. I can't even use the app.,1,Negative,Ads Complaint
+Popup ads cover the whole screen.,2,Negative,Ads Complaint
+Worst ads experience. Constant advertisement spam.,1,Negative,Ads Complaint
+Ads are okay but a bit too frequent.,3,Neutral,Ads Complaint
+Forced ads make watching content impossible.,2,Negative,Ads Complaint
+Ad pop ups every minute. Terrible.,1,Negative,Ads Complaint
+Worried about privacy. Feels unsafe with my personal data.,1,Negative,Security Concern
+Security concern after reading about a data breach.,2,Negative,Security Concern
+Think my account got hacked. Very unsafe.,1,Negative,Security Concern
+Asks for too many permissions. Privacy issue.,2,Negative,Ads Complaint
+Malware warning on install. Security problem.,1,Negative,Security Concern
+Suspicious about how they handle personal data.,2,Negative,Security Concern
+Hacker risk. No two-factor security options.,1,Negative,Security Concern
+Privacy policy is unclear and concerning.,3,Neutral,UI Problem
+Unsafe payment page. Security looks weak.,2,Negative,Security Concern
+Stolen account rumors. Privacy and security worries.,1,Negative,Security Concern
+Payment failed twice and I was still charged.,1,Negative,Payment Problem
+Refund not processed. Transaction stuck.,2,Negative,Payment Problem
+UPI payment failed but money was deducted.,1,Negative,Payment Problem
+Double charged for subscription. Billing error.,2,Negative,Payment Problem
+In-app purchase failed. Payment problem.,1,Negative,Payment Problem
+Cannot complete transaction. Money issues.,2,Negative,Payment Problem
+Subscription charged without consent. Refund please.,1,Negative,Payment Problem
+Payment sometimes fails on checkout.,3,Neutral,Payment Problem
+Billing page errors when paying with card.,2,Negative,Payment Problem
+Purchase failed and support ignores refund requests.,1,Negative,Payment Problem
+Excellent application. I love it.,5,Positive,General Praise
+Amazing app! Best app I have ever used.,5,Positive,General Praise
+Great experience overall. Highly recommend.,4,Positive,General Praise
+Love this app. Fantastic and wonderful.,5,Positive,General Praise
+Perfect! Awesome features and so good.,5,Positive,General Praise
+Very good app. Great for daily use.,4,Positive,General Praise
+Best app in this category. Excellent work.,5,Positive,General Praise
+Amazing update. Love it even more now.,4,Positive,General Praise
+Wonderful app. Highly recommend to friends.,5,Positive,General Praise
+Great and easy to use. Fantastic job.,4,Positive,General Praise
+It is okay. Nothing special to mention.,3,Neutral,Other
+Average app for basic needs.,3,Positive,Other
+Not what I expected from the description.,2,Negative,Other
+Works fine for my simple use case.,4,Positive,Other
+Decent but could be better.,3,Negative,Feature Request
+Uninstalled after a week. Not useful for me.,2,Negative,Other
+Does the job. No major complaints.,4,Positive,Security Concern
+It's fine. Using it occasionally.,3,Neutral,Other
+Waste of time. Completely useless to me.,1,Negative,Other
+Solid tool for everyday tasks.,5,Positive,Other
+I love this product so much. Excellent quality.,5,Positive,General Praise
+Horrible experience. Do not download.,1,Negative,Other
+Pretty good overall after recent fixes.,4,Positive,Other
+Disappointed with customer support responses.,2,Negative,Other
+Neither good nor bad. Just average.,3,Neutral,Other
+Absolutely amazing. Best decision to install.,5,Positive,General Praise
+Broken and frustrating beyond words.,1,Negative,Other
+Good enough for what I need.,4,Positive,Other
+Keeps showing errors for no reason.,2,Negative,Other
+Superb. Love this and recommend everyone.,5,Positive,General Praise

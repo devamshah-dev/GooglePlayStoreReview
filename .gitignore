@@ -1,0 +1,39 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+npm-debug.log*
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Data processing intermediates (keep sample raw dataset)
+backend/datasets/processed/*
+!backend/datasets/processed/.gitkeep
+
+# Do NOT ignore trained model pickles — they are needed for the demo.
+# backend/models/*.pkl is intentionally tracked when present.
+
+# Local reports / temp
+*.tmp
+.coverage
+htmlcov/
